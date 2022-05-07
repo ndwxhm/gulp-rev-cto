@@ -1,0 +1,33 @@
+{
+    "name": "gulp-rev-cto",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "modify-filename": "^1.1.0",
+        "plugin-error": "^1.0.1",
+        "rev-hash": "^2.0.0",
+        "sort-keys": "^2.0.0",
+        "through2": "^2.0.0",
+        "underscore": "^1.9.1",
+        "vinyl": "^2.1.0",
+        "vinyl-file": "^3.0.0"
+    },
+    "keywords": [
+        "gulpplugin",
+        "rev",
+        "revving",
+        "revision",
+        "hash",
+        "optimize",
+        "version",
+        "versioning",
+        "cache",
+        "expire",
+        "static",
+        "asset",
+        "assets"
+    ],
+    "author": "liuyuan",
+    "license": "MIT"
+}
